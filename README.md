@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-<div align="center">
-  <h2>Mobile developer | Flutter</h2>
-</div>
+## Mobile developer | Flutter
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoNatale&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=4169E1&bg_color=0d1117" />
