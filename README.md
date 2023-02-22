@@ -1,10 +1,24 @@
-### Well...
-I'm a Flutter Developer
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-I will try to do more things and publish here
+<div align="center">
+  <h2>Mobile developer | Flutter</h2>
+</div>
 
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoNatale&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=4169E1&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNatale&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNatale&show_icons=true&layout=compact&hide=html,jupyter%20notebook,swift,objective-c,shell,kotlin,java,css&langs_count=6&theme=dark)
+### Main skills
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-n-costa/)
+[<img align="left" alt="Ruby" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
+[<img align="left" alt="Ruby" width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
+[<img align="left" alt="Ruby" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
+
+<!-- Redirectors -->
+
+[flutter]: https://flutter.dev
+[dart]: https://dart.dev
+[firebase]: https://firebase.google.com/
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
