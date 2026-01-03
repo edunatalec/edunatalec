@@ -1,3 +1,11 @@
-### Hey there! I'm Eduardo.
+### About me
 
-Since 2019, I have been a software developer specializing in Flutter. Currently, I work at one of Brazil's largest fintechs, building innovative and scalable solutions. I have a strong passion for studying and continuously learning more about technology.
+I have been working with software development since 2019.
+
+Currently, I work at a bank in Brazil, developing projects and scalable solutions with a strong focus on maintainability and long-term growth. I enjoy building things, writing clean code, and improving systems over time.
+
+I genuinely love programming and continuously learning about technology and software development.
+
+### Knowledge
+
+- Languages: Dart, Javascript and Go
