@@ -8,4 +8,4 @@ I genuinely love programming and continuously learning about technology and soft
 
 ### Knowledge
 
-- Languages: Dart, Javascript and Go
+- Languages: Dart, Javascript and C#
